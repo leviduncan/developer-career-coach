@@ -1,0 +1,5 @@
+{
+  "name": "Developer Career Coach",
+  "description": "An AI-powered application that evaluates a developer's skill level based on their resume and a comprehensive exam. It provides a detailed report on strengths, areas for improvement, and a personalized growth plan.",
+  "requestFramePermissions": []
+}
